@@ -1,2 +1,2 @@
 # pandemicgeogame
-Another school project
+Another (dead) school project
